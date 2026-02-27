@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sukyoung Won # Website name
-baseURL: 'https://github.com/tnrud898/sukyoungwon' # 실제 사이트 URL로 변경
+baseURL: 'https://tnrud898.github.io/sukyoung.github.io/' # 실제 사이트 URL로 변경
 
 ############################
 ## LANGUAGE
