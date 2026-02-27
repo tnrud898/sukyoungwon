@@ -21,7 +21,7 @@ interests:
   - Wireless energy transfer
   - Pathogen control
   - Biomedical engineering
-  - Micro
+  - Microrobotics
 
 # Education to show in About widget
 education:
