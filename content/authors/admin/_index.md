@@ -17,11 +17,11 @@ bio: My research focuses generating static electricity by mechanical energy and,
 
 # Interests to show in About widget
 interests:
-  - Energy harvesting
   - Biocompatible materials
   - Wireless energy transfer
   - Pathogen control
   - Biomedical engineering
+  - Micro
 
 # Education to show in About widget
 education:
