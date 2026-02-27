@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Young-Jun Kim
+title: Sukyoung Won
 
 # Is this the primary user of the site?
 superuser: true
