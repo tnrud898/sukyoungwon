@@ -9,18 +9,17 @@ superuser: true
 organizations:
   - name: Caltech
     url: https://www.gao.caltech.edu/
-  - name: Postdoctoral researcher (kimyjun@caltech.edu)
+  - name: Postdoctoral researcher (swon@caltech.edu)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.
+bio: My research focuses on desinging stimuli-responsive polymer composites for programmable microrobotics.
 
 
 # Interests to show in About widget
 interests:
-  - Biocompatible materials
-  - Wireless energy transfer
-  - Pathogen control
-  - Biomedical engineering
+  - Programmable soft matter
+  - Stimuli-responsive polymer composites
+  - Structure-property-actuation desing
   - Microrobotics
 
 # Education to show in About widget
@@ -42,21 +41,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kimyjun@caltech.edu'
+  link: 'mailto:swon@caltech.edu'
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=DGYqmIkAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/young-jun-kim-986925273/
+  link: https://www.linkedin.com/in/sukyoung
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-9103-7065
+  link: https://orcid.org/0000-0002-7914-1273
 - icon: download
   icon_pack: fas
-  link: uploads/CV_Young-Jun Kim.pdf
+  link: uploads/CV_Sukyoung Won.pdf
 
 
 
